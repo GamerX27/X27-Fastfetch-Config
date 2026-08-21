@@ -125,19 +125,8 @@
         },
         "break",
         {
-            "type": "media",
-            "key": "  Audio",
-            "keyColor": "#bf616a"
-        },
-        {
-            "type": "player",
-            "key": "└ └ ",
-            "keyColor": "#bf616a"
-        },
-        "break",
-        {
             "type": "custom",
-            "format": "\u001b[38;2;216;222;233m┌────────────────────Uptime / Age / DT────────────────────┐"
+            "format": "\u001b[38;2;216;222;233m┌────────────────────Other────────────────────┐"
         },
         {
             "type": "command",
@@ -153,6 +142,16 @@
         {
             "type": "datetime",
             "key": "  ›  DateTime  ",
+            "keyColor": "#b48ead"
+        },
+        {
+            "type": "media",
+            "key": "  ›  Audio  ",
+            "keyColor": "#b48ead"
+        },
+        {
+            "type": "player",
+            "key": "  ›  Player  ",
             "keyColor": "#b48ead"
         },
         {

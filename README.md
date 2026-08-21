@@ -7,8 +7,7 @@
 - **Hardware**: PC, CPU + GPU (with live temperature), memory, disks
 - **Software**: OS, kernel, bios, packages, shell
 - **DE**: desktop/login/window manager, WM theme, terminal, icon theme
-- **Audio**: currently playing media + player, highlighted in red
-- **Uptime / Age / DT**: install age, uptime, current date/time
+- **Other**: install age, uptime, current date/time, currently playing media + player
 - Terminal color palette strip at the bottom
 
 ## Requirements
