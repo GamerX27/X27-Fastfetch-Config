@@ -1,7 +1,4 @@
 # X27-Fastfetch-Config
-
-Fastfetch config, without any JPG or PNG images. Nord-themed, boxed layout, no logo images required.
-
 ![preview](./preview.png)
 
 ## What's in it
