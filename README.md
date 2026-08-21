@@ -13,7 +13,8 @@
 
 ## Requirements
 
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) **2.42.0+** (hex logo colors aren't supported before that — distro repo packages, especially Debian's, can lag well behind this;
+  grab a current build from the [releases page](https://github.com/fastfetch-cli/fastfetch/releases) if `fastfetch --version` is older)
 - A [Nerd Font](https://www.nerdfonts.com/) in your terminal, or the icons will render as blank boxes.
   Don't want to switch your whole terminal font? Install the
   [Symbols Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/releases/latest/download/NerdFontsSymbolsOnly.tar.xz)
